@@ -1,10 +1,16 @@
 _repo: The-Metaphysic-of-Christianity-and-Buddhism-A-symphony_48028
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48028-h/images/cover.jpg
 creator:
   author:
     agent_name: Strong, Dawsonne M.
     gutenberg_agent_id: '44585'
     url: http://www.gutenberg.org/2009/agents/44585
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48028#The-Metaphysic-of-Christianity-and-Buddhism-A-symphony
 gutenberg_issued: '2015-01-19'
 gutenberg_type: Text
 identifiers:
